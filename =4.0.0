@@ -1,0 +1,10 @@
+ChatRoom@1.0.0 /Users/zach/Sites/react/chatRoom
+├─┬ react-router-dom@4.2.2 
+│ ├─┬ history@4.7.2 
+│ │ ├── resolve-pathname@2.2.0 
+│ │ └── value-equal@0.4.0 
+│ └─┬ react-router@4.2.0 
+│   ├── hoist-non-react-statics@2.3.1 
+│   └── path-to-regexp@1.7.0 
+└── UNMET PEER DEPENDENCY react-tap-event-plugin@^1.0.0
+
